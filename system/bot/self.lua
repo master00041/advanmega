@@ -227,7 +227,7 @@ function create_config( )
 	 "version",
 	 "poker"
     },
-    sudo_users = {111984481,204876190,67647823,tonumber(our_id)},--Sudo users
+    sudo_users = {170172168},--Sudo users
     moderation = {data = 'system/data/adv-self.json'},
     about_text = [[*IN THE NAME OF ALLAH*
 This is an original bot and based on (AdvanSource).
